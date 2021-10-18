@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I'm Rez 👋
+
+Network Engineer, Microsoft sys/cloud admin, #NetDevOps enthusiast, #CCNP Enterprise
+
+If you like what I'm doing, consider following me on [**Twitter**](https://twitter.com/RezNetDevOps) or [**LinkedIn**](https://www.linkedin.com/in/mohamadreza-rezaei-538397139/).
 
 <!--
 **rezNetDevOps/rezNetDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
