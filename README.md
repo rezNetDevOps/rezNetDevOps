@@ -1,6 +1,6 @@
 ### Hello, I'm Rez 👋
 
-Network Engineer, Microsoft sys/cloud admin, #NetDevOps enthusiast, #CCNP Enterprise
+Infrastructure Eng & Veteran Network Eng | Certified CCNP Enterprise & MCSE | Focused on #Agile Leadership and #DevOps
 
 If you like what I'm doing, consider following me on [**Twitter**](https://twitter.com/RezNetDevOps) or [**LinkedIn**](https://www.linkedin.com/in/mohamadreza-rezaei-538397139/).
 
